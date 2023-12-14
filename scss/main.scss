@@ -1,3 +1,10 @@
 @import './utils/variables';
 
 @import './base';
+
+@import './components/container';
+
+@import './layout/header';
+@import './layout/main';
+@import './layout/customers';
+@import './layout/content';
